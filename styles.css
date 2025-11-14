@@ -88,11 +88,22 @@ h2 {
   right: 10px;
 }
 
-p {
+p.center {
   position: relative;
   color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: center;
+  padding: 10px;
+  margin: auto;
+  width: 100%;
+  right: 10px;
+}
+
+p.left {
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: left;
   padding: 10px;
   margin: auto;
   width: 100%;
@@ -103,7 +114,7 @@ ul {
   position: relative;
   color: rgb(255, 255, 255);
   font-size: 20px;
-  text-align: center;
+  text-align: left;
   padding: 10px;
   margin: auto;
   width: 100%;
@@ -114,7 +125,7 @@ li {
   position: relative;
   color: rgb(255, 255, 255);
   font-size: 20px;
-  text-align: center;
+  text-align: left;
   padding: 10px;
   margin: auto;
   width: 100%;
