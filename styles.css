@@ -18,13 +18,6 @@ img {
   height: 300px;
 }
 
-#fblogo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 30px; 
-}
-
 .button {
   border: none;
   color: white;
