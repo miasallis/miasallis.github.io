@@ -4,6 +4,7 @@ body {
   background-attachment: fixed;
   background-size: 100vw 100vh;
 }
+
 .button {
   background-color: #5776da;
   border: none;
@@ -16,9 +17,19 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
-title {
+
+title.moved {
+  right: 45%;
+  position: relative;
   color: rgb(0, 0, 0);
 }
+
+h1.moved {
+  right: 35%;
+  position: relative;
+  color: rgb(0, 0, 0);
+}
+
 div {
   color: rgb(255, 162, 162);
   padding: 10px;
