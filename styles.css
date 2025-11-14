@@ -115,7 +115,7 @@ ul {
   color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: left;
-  padding: 0px;
+  padding: 20px;
   margin: auto;
   width: 100%;
   right: 10px;
@@ -126,8 +126,9 @@ li {
   color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: left;
-  padding: 0px;
+  padding: 20px;
   margin: auto;
   width: 100%;
   right: 10px;
+  top: -10px;
 }
