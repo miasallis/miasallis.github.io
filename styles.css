@@ -12,8 +12,11 @@ img {
   background-color: #12121253;
   padding: 10px;
   margin: auto;
-  width: 100%;
   right: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
 }
 
 .down {
