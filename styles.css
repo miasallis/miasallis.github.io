@@ -118,7 +118,7 @@ ul {
   padding: 20px;
   margin: auto;
   width: 100%;
-  right: 10px;
+  right: 0px;
 }
 
 li {
@@ -129,6 +129,5 @@ li {
   padding: 20px;
   margin: auto;
   width: 100%;
-  right: 10px;
-  top: 10px;
+  right: 0px;
 }
