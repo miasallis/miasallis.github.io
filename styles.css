@@ -18,6 +18,12 @@ img {
   height: 300px;
 }
 
+.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
 .button {
   border: none;
   color: white;
