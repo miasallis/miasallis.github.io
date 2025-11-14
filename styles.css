@@ -11,7 +11,7 @@ img {
   position: relative;
   background-color: #12121253;
   margin: auto;
-  right: 60px;
+  right: 40px;
   margin-left: auto;
   margin-right: auto;
   width: 300px;
@@ -40,15 +40,6 @@ img {
 }
 
 div {
-  color: rgb(255, 162, 162);
-  padding: 10px;
-  width: 100%;
-  background-color: rgba(18, 18, 18, 0.326);
-  margin: auto;
-  right: 10px;
-}
-
-h1.moved {
   position: relative;
   color: rgb(255, 255, 255);
   font-size: 60px;
@@ -60,24 +51,33 @@ h1.moved {
   right: 10px;
 }
 
-h2.moved {
+h1 {
   position: relative;
   color: rgb(255, 255, 255);
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
-  background-color: rgba(18, 18, 18, 0.326);
   padding: 10px;
   margin: auto;
   width: 100%;
   right: 10px;
 }
 
-.intro {
+h2 {
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  width: 100%;
+  right: 10px;
+}
+
+p {
   position: relative;
   color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: center;
-  background-color: rgba(18, 18, 18, 0.326);
   padding: 10px;
   margin: auto;
   width: 100%;
