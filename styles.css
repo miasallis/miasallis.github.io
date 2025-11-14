@@ -24,6 +24,9 @@ h1.moved {
   color: rgb(0, 0, 0);
   text-align: right;
   background-color: rgba(18, 18, 18, 0.326);
+  padding: 10px;
+  border: solid 1px #a6d8a8;
+  margin: auto;
 }
 
 h2.moved {
