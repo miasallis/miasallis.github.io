@@ -23,6 +23,7 @@ h1.moved {
   position: relative;
   color: rgb(0, 0, 0);
   text-align: right;
+  background-color: rgba(18, 18, 18, 0.326);
 }
 
 h2.moved {
@@ -30,6 +31,7 @@ h2.moved {
   position: relative;
   color: rgb(0, 0, 0);
   text-align: right;
+  background-color: rgba(18, 18, 18, 0.326);
 }
 
 div {
