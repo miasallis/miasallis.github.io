@@ -18,16 +18,18 @@ body {
   cursor: pointer;
 }
 
-title.moved {
-  right: 45%;
+h1.moved {
+  right: 40px;
   position: relative;
   color: rgb(0, 0, 0);
+  text-align: right;
 }
 
-h1.moved {
-  right: 35%;
+h2.moved {
+  right: 40px;
   position: relative;
   color: rgb(0, 0, 0);
+  text-align: right;
 }
 
 div {
