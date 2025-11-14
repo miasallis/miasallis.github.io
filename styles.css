@@ -18,6 +18,16 @@ body {
   cursor: pointer;
 }
 
+div {
+  color: rgb(255, 162, 162);
+  padding: 10px;
+  width: 100%;
+  background-color: rgba(18, 18, 18, 0.326);
+  position: relative;
+  margin: auto;
+  right: 10px;
+}
+
 h1.moved {
   position: relative;
   color: rgb(255, 255, 255);
@@ -27,7 +37,7 @@ h1.moved {
   padding: 10px;
   margin: auto;
   width: 100%;
-  right: 20px;
+  right: 10px;
 }
 
 h2.moved {
@@ -39,15 +49,17 @@ h2.moved {
   padding: 10px;
   margin: auto;
   width: 100%;
-  right: 20px;
+  right: 10px;
 }
 
-div {
-  color: rgb(255, 162, 162);
-  padding: 10px;
-  width: 100%;
-  background-color: rgba(18, 18, 18, 0.326);
+p.intro {
   position: relative;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: right;
+  background-color: rgba(18, 18, 18, 0.326);
+  padding: 10px;
   margin: auto;
-  right: 20px;
+  width: 100%;
+  right: 10px;
 }
