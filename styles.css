@@ -21,6 +21,7 @@ img {
 .button {
   border: none;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -57,6 +58,7 @@ img {
 div {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   text-align: center;
   background-color: #12121253;
@@ -69,6 +71,7 @@ div {
 h1 {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   text-align: center;
   padding: 10px;
@@ -80,6 +83,7 @@ h1 {
 h2 {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
   text-align: center;
   padding: 10px;
@@ -91,6 +95,7 @@ h2 {
 p.center {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   text-align: center;
   padding: 10px;
@@ -102,6 +107,7 @@ p.center {
 p.left {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   text-align: left;
   padding: 10px;
@@ -113,6 +119,7 @@ p.left {
 ul {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   text-align: left;
   padding: 20px;
@@ -124,6 +131,7 @@ ul {
 li {
   position: relative;
   color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   text-align: left;
   padding: 20px;
