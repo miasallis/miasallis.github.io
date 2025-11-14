@@ -20,24 +20,26 @@ body {
 
 h1.moved {
   position: relative;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-size: 60px;
   text-align: right;
   background-color: #12121253;
   padding: 10px;
   margin: auto;
   width: 100%;
+  right: auto;
 }
 
 h2.moved {
   position: relative;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-size: 40px;
   text-align: right;
   background-color: rgba(18, 18, 18, 0.326);
   padding: 10px;
   margin: auto;
   width: 100%;
+  right: auto;
 }
 
 div {
@@ -47,4 +49,5 @@ div {
   background-color: rgba(18, 18, 18, 0.326);
   position: relative;
   margin: auto;
+  right: auto;
 }
